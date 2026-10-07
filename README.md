@@ -21,6 +21,7 @@ The application displays:
 Build the Docker image:
 
 ```bash
+```
 docker build -t student-app .
 <img width="975" height="193" alt="image" src="Images/2026-10-07%143544.png">
 <img width="975" height="193" alt="image" src="https://github.com/ZacktheGreat5/Student-App-WebinABox/Images/2026-10-07 143553.png">
