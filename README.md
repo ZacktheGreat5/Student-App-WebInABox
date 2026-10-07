@@ -24,7 +24,7 @@ Build the Docker image:
 ```
 docker build -t student-app .
 <img width="975" height="193" alt="image" src="Images/Screenshot 2026-10-07 143544.png">
-<img width="975" height="193" alt="image" src="https://github.com/ZacktheGreat5/Student-App-WebinABox/Images/2026-10-07 143553.png">
-<img width="975" height="193" alt="image" src="https://github.com/ZacktheGreat5/Student-App-WebinABox/Images/2026-10-07 143628.png">
-<img width="975" height="193" alt="image" src="https://github.com/ZacktheGreat5/Student-App-WebinABox/Images/2026-10-07 143646.png">
-<img width="975" height="193" alt="image" src="https://github.com/ZacktheGreat5/Student-App-WebinABox/Images/2026-10-07 143722.png">
+<img width="975" height="193" alt="image" src="Images/Screenshot 2026-10-07 143553.png">
+<img width="975" height="193" alt="image" src="Images/Screenshot 2026-10-07 143628.png">
+<img width="975" height="193" alt="image" src="Images/Screenshot 2026-10-07 143646.png">
+<img width="975" height="193" alt="image" src="Images/Screenshot 2026-10-07 143722.png">
